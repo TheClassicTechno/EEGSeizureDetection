@@ -1,6 +1,6 @@
 # # EEG Seizure Detection Pipeline (Stanford EEGML Lab)
-
-work done as part of stanford eegml lab (aug 2022- sep 2023)
+by juli huang
+my work done as part of stanford eegml lab (aug 2022- sep 2023)
 
 other files are to remain private.
 
